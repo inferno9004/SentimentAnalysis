@@ -1,0 +1,3 @@
+SCRIPT_STR('classify_polarity(.arg1,algorithm = "bayes", verbose = TRUE)[,4]',ATTR([Text]))
+
+SCRIPT_STR('classify_emotion(.arg1,algorithm = "bayes", verbose = TRUE)[,7]',ATTR([Text]))
